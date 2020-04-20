@@ -1,13 +1,28 @@
-Welcome to My Github Profile
-
-Hello All,
-My name is Yosua, my nickname is [crzn1](https://github.com/crzn1) in github,
-I'm a c# learner & interested at backend,scared to frontend
-My Facebook Profile is [YOS](https://www.facebook.com/mycotta)
-you can contact me at : [crznx1@gmail.com](mailto:crznx1@gmail.com)
-
-
-
-
-
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>YOS, CRZN1</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Yosua Es!</h1>
+				<p>My Nickname is crzn1 <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
